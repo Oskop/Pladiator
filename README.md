@@ -14,6 +14,10 @@ The project is broken down into multiple steps:
 
 ### App demo
 [Green Doctor Demo](https://youtu.be/2UYLglMni6E)
+
+You can also download it on Playstore. Just click this link below.
+* [Pladiator] (https://play.google.com/store/apps/details?id=isomora.com.greendoctor)
+
 ### Libraries
 
 * [Tensorflow 2.0](https://www.tensorflow.org/)
@@ -24,6 +28,9 @@ The project is broken down into multiple steps:
 * Python
 * Kotlin
 
+### Re-Developing Team
+* Mokhamad WIjaya [Training Model] [17090092 5D TI Politeknik Harapan Bersama Tegal]
+* Reza Aditya Sam Marhaban [Android Development] [17090147 5D TI Politeknik Harapan Bersama Tegal]
 
 ## License
 
